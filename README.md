@@ -36,7 +36,7 @@ Bài test này bao gồm 3 phần:
 
 ### Công nghệ
 - **FastAPI**
-- **Python 3.11+**
+- **Python 3.12**
 - **Uvicorn** để chạy server
 
 ### Cài đặt thư viện
