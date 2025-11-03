@@ -89,6 +89,5 @@ docker run -p 8000:8000 books-api
 Tác giả
 
 Họ tên: Nguyễn Quý Hoàng
-
 Năm: 2025
 
