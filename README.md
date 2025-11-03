@@ -1,3 +1,4 @@
+
 # BOOK SCRAPER API
 
 ## Giới thiệu
@@ -21,8 +22,6 @@ Bài test này bao gồm 3 phần:
   - Số sao (Star Rating – đổi ra số 1 đến 5)
 - Lưu dữ liệu vào file `data/books.json`
 - Lưu HTML từng trang vào thư mục `html_backup/`
-
----
 
 ## Phần 2: Gọi API bên ngoài
 
@@ -92,4 +91,5 @@ Tác giả
 Họ tên: Nguyễn Quý Hoàng
 
 Năm: 2025
-
+# Web-Scraping-API-Integration-and-REST-API-Development
+ 2f57cc0ffce259433a734cb94b475109e1610500
